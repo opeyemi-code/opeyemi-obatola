@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Inter:wght@400;500;600;700&display=swap");
+
+@import "tailwindcss";
+
+/* Dark mode variant */
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Design tokens */
+:root {
+  color-scheme: light;
+
+  --background: #ffffff;
+  --surface: #f7f9f7;
+  --foreground: #17211d;
+  --muted: #66716b;
+
+  --primary: #176b4d;
+  --primary-hover: #12563d;
+
+  --border: #e3e8e4;
+  --subtle: #edf5f0;
+
+  --danger: #b42318;
+}
+
+/* Tailwind theme configuration */
+@theme inline {
+  --font-sans: "Inter", sans-serif;
+  --font-display: "DM Serif Display", Georgia, serif;
+
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+
+  --color-primary: var(--primary);
+  --color-primary-hover: var(--primary-hover);
+
+  --color-border: var(--border);
+  --color-subtle: var(--subtle);
+  --color-danger: var(--danger);
+}
+
+/* Global styles */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply min-h-screen bg-background font-sans text-foreground antialiased;
+}
+
+* {
+  @apply border-border;
+}
+
+:focus-visible {
+  outline: 3px solid var(--primary);
+  outline-offset: 3px;
+}
+
+::selection {
+  background: var(--subtle);
+  color: var(--foreground);
+}
+
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
