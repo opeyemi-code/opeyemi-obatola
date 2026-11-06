@@ -44,7 +44,7 @@ function Hero() {
 
           {/* Add your LinkedIn URL when available */}
           <a
-            href="https:/linkedin.com/in/opeyemi-obatola"
+            href="https://linkedin.com/in/opeyemi-obatola"
             target="_blank"
             aria-label="LinkedIn and professional contact information"
             className="text-muted transition-colors hover:text-primary"

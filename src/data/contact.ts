@@ -11,7 +11,7 @@ export const contactLinks: ContactLink[] = [
   {
     label: "LinkedIn",
     value: "Connect professionally",
-    href: "https:linkedin.com/in/opeyemi-obatola",
+    href: "https://linkedin.com/in/opeyemi-obatola",
     icon: FaLinkedin,
   },
 ];

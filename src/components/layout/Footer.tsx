@@ -62,7 +62,7 @@ function Footer() {
               </a>
 
               <a
-                href="https:/linkedin.com/in/opeyemi-obatola"
+                href="https://linkedin.com/in/opeyemi-obatola"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 text-sm text-muted hover:text-primary"
