@@ -28,20 +28,29 @@ This portfolio brings together selected projects, technical capabilities, educat
 ## Tech Stack
 
 ### Core Technologies
+<<<<<<< HEAD
 
+=======
+>>>>>>> 284d598da4a44a6ddb45d1601fe13ea8f62bdb1c
 - React
 - TypeScript
 - HTML5
 - CSS3
 
 ### Frameworks and Libraries
+<<<<<<< HEAD
 
+=======
+>>>>>>> 284d598da4a44a6ddb45d1601fe13ea8f62bdb1c
 - Tailwind CSS
 - Lucide React
 - React Icons
 
 ### Development Tools
+<<<<<<< HEAD
 
+=======
+>>>>>>> 284d598da4a44a6ddb45d1601fe13ea8f62bdb1c
 - Vite
 - Git
 - GitHub
@@ -58,7 +67,10 @@ A functional ecommerce application featuring product discovery, shopping cart ma
 **Technologies:** Vue 3, TypeScript, Tailwind CSS, Vee-Validate and Paystack.
 
 **Highlights:**
+<<<<<<< HEAD
 
+=======
+>>>>>>> 284d598da4a44a6ddb45d1601fe13ea8f62bdb1c
 - REST API integration for product data.
 - Reactive shopping cart state management.
 - Form handling and validation with Vee-Validate.
@@ -73,7 +85,10 @@ A weather application that allows users to search for locations and retrieve wea
 **Technologies:** React, TypeScript, Vite, TanStack Query and Open-Meteo.
 
 **Highlights:**
+<<<<<<< HEAD
 
+=======
+>>>>>>> 284d598da4a44a6ddb45d1601fe13ea8f62bdb1c
 - Location search and geocoding.
 - Weather data retrieval through the Open-Meteo API.
 - Server-state management and caching with TanStack Query.
@@ -89,7 +104,10 @@ A Markdown editor and preview application designed to make writing and managing 
 **Technologies:** React, TypeScript and Vue.js.
 
 **Highlights:**
+<<<<<<< HEAD
 
+=======
+>>>>>>> 284d598da4a44a6ddb45d1601fe13ea8f62bdb1c
 - Real-time Markdown preview.
 - Create, edit and manage notes.
 - Local storage persistence.
@@ -107,7 +125,10 @@ A Markdown editor and preview application designed to make writing and managing 
 Contributed to the frontend development of a learning and competition platform, focusing on responsive interfaces and form validation.
 
 Key contributions included:
+<<<<<<< HEAD
 
+=======
+>>>>>>> 284d598da4a44a6ddb45d1601fe13ea8f62bdb1c
 - Developing login, registration and password recovery interfaces.
 - Building reusable UI components.
 - Implementing form validation with Zod.
@@ -121,7 +142,10 @@ Key contributions included:
 Developed professional experience in customer acquisition, relationship management, customer onboarding and complaint resolution.
 
 Key contributions included:
+<<<<<<< HEAD
 
+=======
+>>>>>>> 284d598da4a44a6ddb45d1601fe13ea8f62bdb1c
 - Driving customer acquisition and retention.
 - Managing customer onboarding and records.
 - Using Microsoft Excel and Mambu CRM.
@@ -177,12 +201,21 @@ Ensure you have the following installed:
 
 ### Available Scripts
 
+<<<<<<< HEAD
 | Command           | Description                                            |
 | ----------------- | ------------------------------------------------------ |
 | `npm run dev`     | Starts the development server.                         |
 | `npm run build`   | Runs TypeScript checks and creates a production build. |
 | `npm run preview` | Previews the production build locally.                 |
 | `npm run lint`    | Runs Oxlint to identify code quality issues.           |
+=======
+| Command | Description |
+|---|---|
+| `npm run dev` | Starts the development server. |
+| `npm run build` | Runs TypeScript checks and creates a production build. |
+| `npm run preview` | Previews the production build locally. |
+| `npm run lint` | Runs Oxlint to identify code quality issues. |
+>>>>>>> 284d598da4a44a6ddb45d1601fe13ea8f62bdb1c
 
 ## Project Structure
 
@@ -261,3 +294,7 @@ I'm interested in frontend development opportunities, professional collaboration
 ---
 
 Built with care by **Opeyemi Obatola**.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 284d598da4a44a6ddb45d1601fe13ea8f62bdb1c
