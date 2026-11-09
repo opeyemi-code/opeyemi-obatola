@@ -3,7 +3,7 @@ import type { Project } from "../types/models";
 export const projects: Project[] = [
   {
     number: "01",
-    img: "/images/store_preview.png",
+    img: "/images/store_preview.webp",
     title: "Ecommerce Application",
     description:
       "A fully functional ecommerce application featuring product browsing, cart management and an integrated checkout experience.",
@@ -26,7 +26,7 @@ export const projects: Project[] = [
   },
   {
     number: "02",
-    img: "/images/weather_now_preview.png",
+    img: "/images/weather_now_preview.webp",
     title: "Weather Application",
     description:
       "A responsive weather application that allows users to search for locations and access current weather information.",
@@ -43,7 +43,7 @@ export const projects: Project[] = [
   },
   {
     number: "03",
-    img: "/images/markdown-previewer-preview.png",
+    img: "/images/markdown-previewer-preview.webp",
     title: "MarkdownPro",
     description:
       "A Markdown editor with real-time preview and note management capabilities, designed to make writing and organising notes easier.",

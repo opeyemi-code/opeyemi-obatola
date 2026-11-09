@@ -46,6 +46,10 @@ function Projects() {
               {/* Project screenshot placeholder */}
               <img
                 src={project.img}
+                loading="lazy"
+                decoding="async"
+                width="1600"
+                height="783"
                 className="h-auto w-auto object-cover"
                 alt={project.description}
               />
